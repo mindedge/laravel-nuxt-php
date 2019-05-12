@@ -1,0 +1,14 @@
+{
+    "name": "mindedge/laravel-nuxt-php",
+    "description": "A package to route all web requests to the nuxt build folder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike McGrath",
+            "email": "mmcgrath@mindedge.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
